@@ -1,0 +1,142 @@
+Sum the digits in an integer
+* 2.6
+Sort three integers
+* 3.8 
+Palindrome number
+* 3.12
+
+
+Cost of driving
+* 2.23
+Cost of shipping
+* 3.18
+
+
+Population projection
+* 1.11
+* 2.11
+
+
+//Algebra: solve 2 × 2 linear equations
+// * 1.13
+// * 3.3
+// * use Cramer’s rule
+// Algebra: solve quadratic equations
+// * 3.1
+
+
+Business: check ISBN-10
+* 3.9
+
+
+Conversion: Celsius to Fahrenheit
+* 2.1
+Conversion: feet into meters
+* 2.3
+Conversion: pounds into kilograms
+* 2.4
+
+
+// Financial application: calculate tips
+// * 2.5
+// Financial application: compound value
+// * 2.13
+// Financial application: calculate interest
+// * 2.20
+// Financial application: calculate future investment value
+// * 2.21
+// Financial application: monetary units
+// * 2.22
+// * 3.7
+Financial application: compute taxes
+* 3.13
+// Financial application: currency exchange
+// * 3.31
+// Financial application: compare costs
+// * 3.33
+
+
+Game: add three numbers
+* 3.2
+Game: addition quiz
+* 3.10
+Game: heads or tails
+* 3.14
+Game: lottery
+* 3.15
+Game: scissor, rock, paper
+* 3.17
+Game: pick a card
+* 3.24
+
+
+// Geometry: distance of two points
+// * 2.15
+// Geometry: intersecting point
+// * 3.25
+// Geometry: point position
+// * 3.32
+// Geometry: point on line segment
+// * 3.34
+// Geometry: area of a triangle
+// * 2.19
+// Geometry: perimeter of a triangle
+// * 3.19
+// Geometry: points in triangle?
+// * 3.27
+// Geometry: area and perimeter of a circle
+// * 1.8
+// Geometry: volume of a cylinder
+// * 2.2
+// Geometry: point in a circle?
+// * 3.22
+// Geometry: two circles
+// * 3.29
+// Geometry: area and perimeter of a rectangle
+// * 1.9
+// Geometry: point in a rectangle?
+// * 3.23
+// Geometry: two rectangles
+// * 3.28
+// Geometry: area of a hexagon
+// * 2.16
+
+
+Health application: computing BMI
+* 2.14
+* 3.6
+
+
+Physics: acceleration
+* 2.9
+Physics: finding runway length
+* 2.12
+
+
+Print: Print a table
+* 1.4
+* 2.18
+Print: Display a pattern
+* 1.3
+
+
+Science: calculating energy
+* 2.10
+Science: wind-chill temperature
+* 2.17
+* 3.20
+Science: day of the week
+* 3.21
+
+
+Time: Current time
+* 2.8
+* 3.30
+// Time: Find future dates
+// * 3.5
+// Time: Find the number of days in a month
+// * 3.11
+Time: Find the number of years
+* 2.7
+// Time: Random month
+// * 3.4

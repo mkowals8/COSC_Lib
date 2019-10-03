@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReadData",
+            "request": "launch",
+            "mainClass": "textfiles.kowalski_michael.ReadData",
+            "projectName": "COSC_Lib"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WriteDataAutoClose",
+            "request": "launch",
+            "mainClass": "textfiles.kowalski_michael.WriteDataAutoClose",
+            "projectName": "COSC_Lib"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestFileClass",
+            "request": "launch",
+            "mainClass": "textfiles.TestFileClass",
+            "projectName": "COSC_Lib"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "COSC_Lib"
+        }
+    ]
+}
